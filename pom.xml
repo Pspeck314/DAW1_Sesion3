@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.cibertec</groupId>
   <artifactId>DAW1_Sesion3</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <name>Mike</name>
   <description>Proyecto de Prueba JPA</description>
   
